@@ -1,3 +1,5 @@
+# Project is live at :- https://splendorous-snickerdoodle-e672f0.netlify.app/
+
 # Business Analytics (22CDT42) - Module 1: Information Systems for Decision Making
 
 This module provides a foundational understanding of how Information Systems (IS) support decision-making processes within organisations, exploring key concepts like Decision Support Systems (DSS), Business Intelligence (BI), Business Analytics, and Big Data Analytics. It covers the evolution of computerised decision support and the critical role of data in modern business environments.
